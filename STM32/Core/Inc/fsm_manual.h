@@ -2,7 +2,7 @@
  * fsm_manual.h
  *
  *  Created on: Oct 30, 2024
- *      Author: ACER
+ *      Author: MACBOOK AIR
  */
 
 #ifndef INC_FSM_MANUAL_H_

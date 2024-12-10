@@ -2,7 +2,7 @@
  * software_timer.c
  *
  *  Created on: Oct 30, 2024
- *      Author: ACER
+ *      Author: MACBOOK AIR
  */
 #include"software_timer.h"
 

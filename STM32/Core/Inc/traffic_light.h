@@ -2,7 +2,7 @@
  * traffic_light.h
  *
  *  Created on: Oct 30, 2024
- *      Author: ACER
+ *      Author: MACBOOK AIR
  */
 
 #ifndef INC_TRAFFIC_LIGHT_H_

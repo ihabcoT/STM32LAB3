@@ -2,7 +2,7 @@
  * fsm_automatic.h
  *
  *  Created on: Oct 30, 2024
- *      Author: ACER
+ *      Author: MACBOOK AIR
  */
 
 #ifndef INC_FSM_AUTOMATIC_H_

@@ -2,7 +2,7 @@
  * fsm_setting.h
  *
  *  Created on: Oct 30, 2024
- *      Author: ACER
+ *      Author: MACBOOK AIR
  */
 
 #ifndef INC_FSM_SETTING_H_
