@@ -53,7 +53,6 @@ void getKeyInput() {
         			keyReg0[i] = NORMAL_STATE;
         		}
         	}
-
         }
     }
 }

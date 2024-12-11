@@ -9,6 +9,7 @@
 //biến trạng thái đèn giao thông chiều dọc và ngang
 int status_traffic_ver = INIT_VER;
 int status_traffic_hor = INIT_HOR;
+
 //mảng lưu trữ thời gian từng đèn mỗi chiều
 int traffic_buffer_ver[3] = {0, 0, 0};
 int traffic_buffer_hor[3] = {0, 0, 0};
@@ -18,7 +19,7 @@ void fsm_traffic_ver() {
 		case INIT_VER:
 			traffic_buffer_ver[0] = time_red_ver * 1000; //lưu time đèn đỏ sáng
 			setTimer(0, traffic_buffer_ver[0]);
-			setTimer(5, 1000); //count down
+			setTimer(5, 1000); //countdown
 			status_traffic_ver = RED_VER;
 			break;
 		case RED_VER:

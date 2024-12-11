@@ -46,7 +46,7 @@ void fsm_manual() {
 				status_system = GREEN_LED;
 			}
 			break;
-		case GREEN_LED: ////thiết lập time cho 4 led green
+		case GREEN_LED: //thiết lập time cho 4 led green
 			status_modify = GREEN_MODIFY;
 			fsm_setting();
 			//button3
